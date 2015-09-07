@@ -6,3 +6,5 @@
 *.core
 #ignore backup files
 \#*
+#ignore game binary
+game
