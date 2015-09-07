@@ -1,2 +1,2 @@
 # CS585
-Coding Standard: (coding_standard.txt)
+[Coding Standard](coding_standard.txt)
