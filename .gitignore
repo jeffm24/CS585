@@ -1,0 +1,8 @@
+#ignore object files
+*.o
+#ignore temporary files
+*~
+#ignore core dumps
+*.core
+#ignore backup files
+\#*
