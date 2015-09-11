@@ -1,10 +1,21 @@
 #ignore object files
 *.o
+
 #ignore temporary files
 *~
+
 #ignore core dumps
 *.core
+
 #ignore backup files
 \#*
-#ignore game binary
+
+#ignore test and game binary
+test
 game
+
+#ignore Makefiles
+Makefile
+
+#ignore build directory
+build
